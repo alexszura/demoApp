@@ -62,7 +62,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
-                                    <action selector="billfield:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="gmj-Iw-kDq"/>
                                     <action selector="calculatetip:" destination="BYZ-38-t0r" eventType="editingChanged" id="kab-N1-zay"/>
                                 </connections>
                             </textField>
